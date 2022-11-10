@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Oluwaseyitan123
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on projects related to data analytics
-- 📫 How to reach me .you.
+- ijaoba AbdulAzeez oluwaseyitan
+- i am  adata analytics
+- 
+- I’m looking to collaborate on projects related to data analytics
+- oluwasyiton@gmail.com
 
 <!---
 Oluwaseyitan123/Oluwaseyitan123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
